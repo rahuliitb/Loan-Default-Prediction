@@ -7,7 +7,7 @@
 	2.train_v2.csv:Training data
 	3.label.csv: Label file
 # Feature Engineering
-    1. feature.ipynb: Data preprocessing and features building
+    	1. feature.ipynb: Data preprocessing and features building
 	2.feature_without_cor.csv: preprocessed data without correlated features
 	3.feature.csv: Preprocessed data with correlated features
 
