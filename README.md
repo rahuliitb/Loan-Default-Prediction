@@ -3,7 +3,7 @@
 	1: pip install -r requirements.txt
 
 # DATA:
-	1.Link to download data https://www.kaggle.com/c/loan-default-prediction/data
+	1.Download data https://www.kaggle.com/c/loan-default-prediction/data
 	2.train_v2.csv:Training data
 	3.label.csv: Label file
 # Feature Engineering
