@@ -5,7 +5,7 @@
 # DATA:
 	1.Download the data https://www.kaggle.com/c/loan-default-prediction/data
 	2.train_v2.csv:Training data
-	3.label.csv: Label file
+	3.label.csv:Label file
 # Feature Engineering
 	1.feature.ipynb: Data preprocessing and features building
 	2.feature_without_cor.csv: preprocessed data without correlated features
