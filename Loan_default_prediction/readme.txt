@@ -11,6 +11,6 @@ Code:
 	2: Model: Model buidling
 	3: logistic_with_WoE.ipynb
 Run code:
-	1. first run feature.ipynb, then Model_final.ipynb
-	2.  logistic_with_WoE.ipynb(run independently)
+	1. First run feature.ipynb, then Model_final.ipynb
+	2. Logistic_with_WoE.ipynb(run independently)
 
